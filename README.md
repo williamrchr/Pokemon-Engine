@@ -14,7 +14,7 @@ Features Currently:
 - Attacks
 - Class system for Pokemon, Trainers, Moves, and Items
 
-Planned Features
+Planned Features:
 - Robust AI stronger than commercial game
 - Import of first generation pokemon and movesets
 - Stat changes, status changes, etc
