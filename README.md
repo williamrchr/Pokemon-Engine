@@ -10,7 +10,7 @@ Long-term goals for the project are a full release as well as support
 for servers to battle together.
 
 Features Currently:
-- Rudimentary Enemy AI
+-Rudimentary Enemy AI
 -Attacks
 -Class system for Pokemon, Trainers, Moves, and Items
 
